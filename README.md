@@ -30,7 +30,7 @@ This project was set up using the following tools:
    npm run build
    ```
 
-4. **Lint the Code**:
+4. **Lint the Code using Stylelint and eslint**:
    ```bash
    npm run lint
    ```
